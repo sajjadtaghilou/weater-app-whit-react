@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
+See the starter in action » [demo website](https://weater-app-with-react.netlify.com/)
 
 ## Available Scripts
 
